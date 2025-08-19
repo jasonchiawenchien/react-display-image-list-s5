@@ -4,8 +4,6 @@
 
 This project allows users to search for images using the Unsplash API and displays them in a responsive grid layout. It is rebuilt based on Stephen Grider's courses on Udemy, Section 5 (Using an API with React).
 
-This project allows users to search for images using the Unsplash API and displays them in a responsive grid layout. It is rebuilt based on Stephen Grider's courses on Udemy, Section 5 (Using an API with React).
-
 ## Features
 
 -   Seach functionality to find images based on user input.
