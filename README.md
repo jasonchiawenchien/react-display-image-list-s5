@@ -20,7 +20,7 @@ This project allows users to search for images using the Unsplash API and displa
 
 2. Navigate to the project directory:
     ```bash
-    cd display-image-list-s5
+    cd react-display-image-list-s5
     ```
 3. Install dependencies:
     ```bash
